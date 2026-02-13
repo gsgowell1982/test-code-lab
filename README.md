@@ -53,4 +53,3 @@ testing all kinds of codes
 | 任务描述 | 负责人 | 状态 | 备注 |
 |---------|--------|------|------|
 | 整理会议纪要并发送 | 李雪 | 待定 | 需在会议后24小时内完成
-<img width="929" height="1799" alt="image" src="https://github.com/user-attachments/assets/084e2e7f-35ed-4aca-8707-b1b5983129b7" />
